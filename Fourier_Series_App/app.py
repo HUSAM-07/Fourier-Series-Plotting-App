@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot 
 
 st.title("Fourier Series Plotting App")
 st.caption("Made by Mohammed Husamuddin, ID No.(2021A7PS0150U)")
